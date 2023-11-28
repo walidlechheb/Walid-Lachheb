@@ -1,7 +1,7 @@
 # Walid-Lachheb
 <h1 align="center">Hi 👋, I'm Walid-Lachheb</h1>
 <h3 align="center">A passionate Full-Stack developer from Morocco</h3>
-<img align="right" alt="coding" width="400" src="![2](https://github.com/walidlechheb/Walid-Lachheb/assets/126773667/41d8967e-c8d7-413e-b703-7f0aae05cd53)
+<img align="right" alt="coding" width="400" src="![image](https://github.com/walidlechheb/Walid-Lachheb/assets/126773667/ff7de3e2-dc5b-405a-94b2-8ae8cf5f2e21)
 ">
 
 
