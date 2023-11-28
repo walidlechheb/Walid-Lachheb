@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Walid-Lachheb</h1>
 <h3 align="center">A passionate Full-Stack developer from Morocco</h3>
 
-<img align="right" alt="coding" src="![image](https://github.com/walidlechheb/Walid-Lachheb/assets/126773667/ff7de3e2-dc5b-405a-94b2-8ae8cf5f2e21)
-" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="coding"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walidlechheb&label=Profile%20views&color=0e75b6&style=flat" alt="walidlechheb" /> </p>
