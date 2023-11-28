@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Walid-Lachheb</h1>
 <h3 align="center">A passionate Full-Stack developer from Morocco</h3>
 
-<img align="right" alt="coding"  src="https://timesoftsol.com/wp-content/uploads/2020/12/Blog-images-Web-development-803x696-2.png" style="max-width: 80%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="coding"  src="https://timesoftsol.com/wp-content/uploads/2020/12/Blog-images-Web-development-803x696-2.png" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walidlechheb&label=Profile%20views&color=0e75b6&style=flat" alt="walidlechheb" /> </p>
